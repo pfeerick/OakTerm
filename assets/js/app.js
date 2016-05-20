@@ -1,3 +1,12 @@
+// @licstart
+//
+// Copyright (C) 2016 Digistump LLC
+//
+// This file is licensed under the MIT License
+// A copy of this license may be found at http://opensource.org/licenses/MIT
+//
+// @licend
+
 $(function() {
   var device_list_refresh_interval=10; // seconds
   var device_info_refresh_interval=10; // seconds
